@@ -1,0 +1,9 @@
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\bin\Debug\security information.exe.config
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\bin\Debug\security information.exe
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\bin\Debug\security information.pdb
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security information.csprojResolveAssemblyReference.cache
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security_information.Form1.resources
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security_information.Properties.Resources.resources
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security information.csproj.GenerateResource.Cache
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security information.exe
+c:\users\hamza al sheikh\documents\visual studio 2013\Projects\security information\security information\obj\Debug\security information.pdb
